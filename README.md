@@ -1,8 +1,14 @@
-# tw — public binary releases
+# tw
 
-This repo holds **binary release artifacts only** for [`tw`](https://twitch.tv/rwxrob)'s private source repository.
+Public binary releases for `tw`.
 
-No source code is published here.
+> ## ⚠️  Sponsorship required
+>
+> **These binaries will not run without an active sponsorship of [@rwxrob](https://github.com/sponsors/rwxrob).**
+>
+> ➡  **[Sponsor @rwxrob on GitHub](https://github.com/sponsors/rwxrob)** ⬅
+>
+> Without a valid sponsor entitlement the binary will exit on launch. Redistribution is fine; usage requires sponsorship.
 
 ## Download
 
@@ -16,4 +22,4 @@ See the [Releases](https://github.com/rwxrob/tw-bin/releases) page for binaries:
 
 ## License
 
-Proprietary — © Robert Sterling Muhlestein. All rights reserved. See release notes for the full license. The binaries here may not be redistributed.
+Binaries may be redistributed freely — they are inert without an active GitHub sponsorship of [@rwxrob](https://github.com/sponsors/rwxrob). The full license terms ship with each release.
